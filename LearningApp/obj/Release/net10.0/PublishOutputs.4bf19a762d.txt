@@ -1,0 +1,7 @@
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\LearningApp.exe
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\appsettings.Development.json
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\appsettings.json
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\LearningApp.dll
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\LearningApp.deps.json
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\LearningApp.runtimeconfig.json
+D:\repos\Udemy\AZ-204\LearningApp\bin\Publish\LearningApp.pdb
